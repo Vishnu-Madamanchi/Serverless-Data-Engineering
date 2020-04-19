@@ -16,7 +16,7 @@ The following steps were followed:
 
 <li>Lambda function was deployed
 <li>Messages are populated in SQS 
-
-![image](https://user-images.githubusercontent.com/47410643/79695499-31ea1480-8245-11ea-8141-2add70585524.png)
+![messages](https://user-images.githubusercontent.com/27280953/79700796-71752880-8266-11ea-94cd-04c0b03e1146.PNG)
+  
   
   
